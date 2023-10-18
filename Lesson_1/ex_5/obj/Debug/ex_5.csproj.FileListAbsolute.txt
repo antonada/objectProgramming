@@ -1,0 +1,6 @@
+F:\Object-oriented programming\ex_5\bin\Debug\ex_5.exe.config
+F:\Object-oriented programming\ex_5\bin\Debug\ex_5.exe
+F:\Object-oriented programming\ex_5\bin\Debug\ex_5.pdb
+F:\Object-oriented programming\ex_5\obj\Debug\ex_5.csprojAssemblyReference.cache
+F:\Object-oriented programming\ex_5\obj\Debug\ex_5.exe
+F:\Object-oriented programming\ex_5\obj\Debug\ex_5.pdb
